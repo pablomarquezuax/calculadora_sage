@@ -1,4 +1,4 @@
-# Tarea 1 - Introcucción a Sage
+# Tarea 1 - Introducción a Sage
 
 ## Ejercicios de Sage como calculadora
 
